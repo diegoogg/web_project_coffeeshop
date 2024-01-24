@@ -140,10 +140,11 @@
   justify-content: center;
   column-gap: 40px;
 }
-.recipes__iframe {
-  margin-top: 80px;
+.recipes__video-item {
   margin-bottom: 215px;
+  margin-top: 80px;
 }
+
 .recipes__video-caption {
   color: #ffffff;
   display: flex;
