@@ -178,13 +178,12 @@
   justify-content: center;
 }
 
-.reservation__form {
-  max-width: 385px;
-  margin-bottom: 120px;
-}
-
 .form__fieldset {
   border: 0;
+  max-width: 385px;
+  margin: 0px;
+  margin-bottom: 120px;
+  padding: 0;
 }
 
 .form__label {
@@ -200,11 +199,13 @@
   max-width: 385px;
   height: 60px;
   width: 100%;
+  color: #ffffff;
   border-radius: 4px;
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  background-color: #2f80ed;
 }
 
 .form__button:hover {
