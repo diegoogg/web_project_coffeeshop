@@ -1,0 +1,33 @@
+.nav {
+  margin-top: 30px;
+  margin-right: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav__logo {
+  position: relative;
+  left: 30px;
+  height: 39px;
+  width: 105px;
+}
+.nav__links {
+  display: flex;
+  column-gap: 20px;
+  list-style: none;
+  margin-top: 0px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+.nav__link:hover {
+  color: #2f80ed;
+}
+.nav__link {
+  text-decoration: none;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
