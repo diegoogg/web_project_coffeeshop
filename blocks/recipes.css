@@ -38,6 +38,8 @@
 }
 
 .recipes__video-caption {
+  margin-top: 24px;
+  list-style: none;
   padding: 0;
   color: #ffffff;
   display: flex;
