@@ -3,6 +3,8 @@
   margin-bottom: 100px;
 }
 .card__title {
+  margin-bottom: 32px;
+  list-style: none;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -11,6 +13,7 @@
 }
 
 .card__content {
+  list-style: none;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
