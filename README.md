@@ -10,3 +10,5 @@ En este proyecto se utilizo tecnologia HTML y CSS, asi como metodologias BEM, or
 Planes de Mejora:
 Se puede mejorar agregando en el formulario para reservar algun tipo de reservas en vivo donde al momento de reservar se pueda mostrar cuantas mesas disponibles y las horas de espera de dicha cafeteria.
 
+https://diegoogg.github.io/web_project_coffeeshop/
+
